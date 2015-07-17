@@ -1,0 +1,656 @@
+[
+  {
+    "category": "Abbreviation",
+    "attribute": "Case",
+    "position": 4
+  },
+  {
+    "category": "Abbreviation",
+    "attribute": "Definiteness",
+    "position": 5
+  },
+  {
+    "category": "Abbreviation",
+    "attribute": "Gender",
+    "position": 2
+  },
+  {
+    "category": "Abbreviation",
+    "attribute": "Number",
+    "position": 3
+  },
+  {
+    "category": "Abbreviation",
+    "attribute": "Syntactic_Type",
+    "position": 1
+  },
+
+
+  {
+    "category": "Adjective",
+    "attribute": "Animate",
+    "position": 8
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Aspect",
+    "position": 13
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Case",
+    "position": 5
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Clitic",
+    "position": 7
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Definiteness",
+    "position": 6
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Degree",
+    "position": 2
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Formation",
+    "position": 9
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Gender",
+    "position": 3
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Human",
+    "position": 16
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Negation",
+    "position": 17
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Number",
+    "position": 4
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Owned_Number",
+    "position": 12
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Owner_Number",
+    "position": 10
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Owner_Person",
+    "position": 11
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Tense",
+    "position": 15
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Type",
+    "position": 1
+  },
+  {
+    "category": "Adjective",
+    "attribute": "Voice",
+    "position": 14
+  },
+
+
+  {
+    "category": "Adposition",
+    "attribute": "Case",
+    "position": 3
+  },
+  {
+    "category": "Adposition",
+    "attribute": "Clitic",
+    "position": 4
+  },
+  {
+    "category": "Adposition",
+    "attribute": "Formation",
+    "position": 2
+  },
+  {
+    "category": "Adposition",
+    "attribute": "Type",
+    "position": 1
+  },
+
+
+  {
+    "category": "Adverb",
+    "attribute": "Case",
+    "position": 7
+  },
+  {
+    "category": "Adverb",
+    "attribute": "Clitic",
+    "position": 3
+  },
+  {
+    "category": "Adverb",
+    "attribute": "Degree",
+    "position": 2
+  },
+  {
+    "category": "Adverb",
+    "attribute": "Number",
+    "position": 4
+  },
+  {
+    "category": "Adverb",
+    "attribute": "Person",
+    "position": 5
+  },
+  {
+    "category": "Adverb",
+    "attribute": "Type",
+    "position": 1
+  },
+  {
+    "category": "Adverb",
+    "attribute": "Wh_Type",
+    "position": 6
+  },
+
+
+  {
+    "category": "Article",
+    "attribute": "Animate",
+    "position": 6
+  },
+  {
+    "category": "Article",
+    "attribute": "Case",
+    "position": 4
+  },
+  {
+    "category": "Article",
+    "attribute": "Clitic",
+    "position": 5
+  },
+  {
+    "category": "Article",
+    "attribute": "Gender",
+    "position": 2
+  },
+  {
+    "category": "Article",
+    "attribute": "Number",
+    "position": 3
+  },
+  {
+    "category": "Article",
+    "attribute": "Type",
+    "position": 1
+  },
+
+
+  {
+    "category": "Conjunction",
+    "attribute": "Clitic",
+    "position": 5
+  },
+  {
+    "category": "Conjunction",
+    "attribute": "Coord_Type",
+    "position": 3
+  },
+  {
+    "category": "Conjunction",
+    "attribute": "Formation",
+    "position": 2
+  },
+  {
+    "category": "Conjunction",
+    "attribute": "Number",
+    "position": 6
+  },
+  {
+    "category": "Conjunction",
+    "attribute": "Person",
+    "position": 7
+  },
+  {
+    "category": "Conjunction",
+    "attribute": "Sub_Type",
+    "position": 4
+  },
+  {
+    "category": "Conjunction",
+    "attribute": "Type",
+    "position": 1
+  },
+
+
+  {
+    "category": "Determiner",
+    "attribute": "Case",
+    "position": 5
+  },
+  {
+    "category": "Determiner",
+    "attribute": "Clitic",
+    "position": 8
+  },
+  {
+    "category": "Determiner",
+    "attribute": "Gender",
+    "position": 3
+  },
+  {
+    "category": "Determiner",
+    "attribute": "Modific_Type",
+    "position": 9
+  },
+  {
+    "category": "Determiner",
+    "attribute": "Number",
+    "position": 4
+  },
+  {
+    "category": "Determiner",
+    "attribute": "Owner_Gender",
+    "position": 7
+  },
+  {
+    "category": "Determiner",
+    "attribute": "Owner_Number",
+    "position": 6
+  },
+  {
+    "category": "Determiner",
+    "attribute": "Person",
+    "position": 2
+  },
+  {
+    "category": "Determiner",
+    "attribute": "Type",
+    "position": 1
+  },
+  {
+    "category": "Determiner",
+    "attribute": "Wh_Type",
+    "position": 10
+  },
+
+
+  {
+    "category": "Interjection",
+    "attribute": "Formation",
+    "position": 2
+  },
+  {
+    "category": "Interjection",
+    "attribute": "Type",
+    "position": 1
+  },
+
+
+  {
+    "category": "Noun",
+    "attribute": "Animate",
+    "position": 7
+  },
+  {
+    "category": "Noun",
+    "attribute": "Aspect",
+    "position": 13
+  },
+  {
+    "category": "Noun",
+    "attribute": "Case",
+    "position": 4
+  },
+  {
+    "category": "Noun",
+    "attribute": "Case2",
+    "position": 11
+  },
+  {
+    "category": "Noun",
+    "attribute": "Clitic",
+    "position": 6
+  },
+  {
+    "category": "Noun",
+    "attribute": "Definiteness",
+    "position": 5
+  },
+  {
+    "category": "Noun",
+    "attribute": "Gender",
+    "position": 2
+  },
+  {
+    "category": "Noun",
+    "attribute": "Human",
+    "position": 12
+  },
+  {
+    "category": "Noun",
+    "attribute": "Negation",
+    "position": 14
+  },
+  {
+    "category": "Noun",
+    "attribute": "Number",
+    "position": 3
+  },
+  {
+    "category": "Noun",
+    "attribute": "Owned_Number",
+    "position": 10
+  },
+  {
+    "category": "Noun",
+    "attribute": "Owner_Number",
+    "position": 8
+  },
+  {
+    "category": "Noun",
+    "attribute": "Owner_Person",
+    "position": 9
+  },
+  {
+    "category": "Noun",
+    "attribute": "Type",
+    "position": 1
+  },
+
+
+  {
+    "category": "Numeral",
+    "attribute": "Animate",
+    "position": 9
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Case",
+    "position": 4
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Class",
+    "position": 8
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Clitic",
+    "position": 7
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Definiteness",
+    "position": 6
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Form",
+    "position": 5
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Gender",
+    "position": 2
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Human",
+    "position": 13
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Number",
+    "position": 3
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Owned_Number",
+    "position": 12
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Owner_Number",
+    "position": 10
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Owner_Person",
+    "position": 11
+  },
+  {
+    "category": "Numeral",
+    "attribute": "Type",
+    "position": 1
+  },
+
+
+  {
+    "category": "Particle",
+    "attribute": "Clitic",
+    "position": 3
+  },
+  {
+    "category": "Particle",
+    "attribute": "Formation",
+    "position": 2
+  },
+  {
+    "category": "Particle",
+    "attribute": "Type",
+    "position": 1
+  },
+
+
+  {
+    "category": "Pronoun",
+    "attribute": "Animate",
+    "position": 12
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Case",
+    "position": 5
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Clitic",
+    "position": 8
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Clitic_s",
+    "position": 13
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Courtesy",
+    "position": 18
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Definiteness",
+    "position": 11
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Gender",
+    "position": 3
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Human",
+    "position": 19
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Number",
+    "position": 4
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Owned_Number",
+    "position": 16
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Owner_Gender",
+    "position": 7
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Owner_Number",
+    "position": 6
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Owner_Person",
+    "position": 15
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Person",
+    "position": 2
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Pronoun_Form",
+    "position": 14
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Referent_Type",
+    "position": 9
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Syntactic_Type",
+    "position": 10
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Type",
+    "position": 1
+  },
+  {
+    "category": "Pronoun",
+    "attribute": "Wh_Type",
+    "position": 17
+  },
+
+
+  {
+    "category": "Residual",
+    "attribute": "Type",
+    "position": 1
+  },
+
+
+  {
+    "category": "Verb",
+    "attribute": "Animate",
+    "position": 12
+  },
+  {
+    "category": "Verb",
+    "attribute": "Aspect",
+    "position": 14
+  },
+  {
+    "category": "Verb",
+    "attribute": "Case",
+    "position": 11
+  },
+  {
+    "category": "Verb",
+    "attribute": "Clitic",
+    "position": 10
+  },
+  {
+    "category": "Verb",
+    "attribute": "Clitic_s",
+    "position": 13
+  },
+  {
+    "category": "Verb",
+    "attribute": "Courtesy",
+    "position": 15
+  },
+  {
+    "category": "Verb",
+    "attribute": "Definiteness",
+    "position": 9,
+    "code": "2",
+    "value": "1s2s",
+    "languages": ["hu"]
+  },
+  {
+    "category": "Verb",
+    "attribute": "Gender",
+    "position": 6
+  },
+  {
+    "category": "Verb",
+    "attribute": "Human",
+    "position": 17
+  },
+  {
+    "category": "Verb",
+    "attribute": "Negative",
+    "position": 8
+  },
+  {
+    "category": "Verb",
+    "attribute": "Number",
+    "position": 5
+  },
+  {
+    "category": "Verb",
+    "attribute": "Person",
+    "position": 4
+  },
+  {
+    "category": "Verb",
+    "attribute": "Tense",
+    "position": 3
+  },
+  {
+    "category": "Verb",
+    "attribute": "Transitive",
+    "position": 16
+  },
+  {
+    "category": "Verb",
+    "attribute": "Type",
+    "position": 1
+  },
+  {
+    "category": "Verb",
+    "attribute": "VForm",
+    "position": 2
+  },
+  {
+    "category": "Verb",
+    "attribute": "Voice",
+    "position": 7
+  }
+]
