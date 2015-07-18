@@ -1,0 +1,14 @@
+CATEGORY:Noun:N:14:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Verb:V:17:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Adjective:A:17:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Pronoun:P:19:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Determiner:D:10:en:ro:fa:
+CATEGORY:Article:T:6:ro:sl-rozaj:hu
+CATEGORY:Adverb:R:7:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Adposition:S:4:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Conjunction:C:7:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Numeral:M:13:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Particle:Q:3:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:
+CATEGORY:Interjection:I:2:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Abbreviation:Y:5:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
+CATEGORY:Residual:X:1:en:ro:pl:cs:sk:sl:sl-rozaj:hr:sr:ru:uk:mk:bg:fa:et:hu
