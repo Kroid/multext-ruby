@@ -23,6 +23,20 @@ class Multext
       }
     end
   end
+
+  def lemma(word_form)
+    @data.each do |ele|
+      return ele[:lemma] if ele[:word_form] == word_form
+    end
+
+    return nil
+  end
+
+  def forms(lemma)
+    @data.find_all do |ele|
+      ele[:lemma] == lemma
+    end
+  end
 end
 
 require "#{File.dirname(__FILE__)}/multext/msd"

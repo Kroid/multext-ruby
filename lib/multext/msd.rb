@@ -87,17 +87,3 @@ class Multext::MSD
   end
 
 end
-
-
-
-
-{
-  language: {
-    category_code: {
-      position: {
-        value_code: 'attribute'
-      }
-    }
-  }
-}
-
